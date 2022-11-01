@@ -20,5 +20,7 @@ sort aşmaları
 [8,11,12,16,21,22]
 
 2^x =n ,x=logn , nlogn kere işlem yapılıyo (time complexim)
+
 ###Big-0 gösterimi
+
 O(nlogn)
